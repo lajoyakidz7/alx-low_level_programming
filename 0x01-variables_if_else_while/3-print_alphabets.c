@@ -8,9 +8,11 @@
 int main(void)
 {
 	char  low;
-	for (low = 'a'; low <= 'z'; low++)
+	char  low++;
+
+	while (low = 'a'; low <= 'z'; low++)
 		putchar(low);
-	for (low = 'A'; low <= 'Z'; low++)
+	while (low = 'A'; low <= 'Z'; low++)
 		putchar(low);
                 putchar('\n');
 	return (0);
