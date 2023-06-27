@@ -20,13 +20,13 @@ for (i = k + 1; i < n; i++)
 {
 _putchar(str[i]);
 }
-      }
+}
 else
 {
-       for (i = k + 1; i < n; i++)
+for (i = k + 1; i < n; i++)
 {
 _putchar(str[i]);
 }
- }
+}
 _putchar('\n');
 }
